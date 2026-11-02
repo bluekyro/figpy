@@ -1,6 +1,3 @@
-print("welcome to my destiny")
-
- Certainly! Here’s a professional and concise project description for your GitHub repository:
 
 ---
 Figpy: Anonymous Dark Web Information Retrieval Tool
